@@ -1,0 +1,9 @@
+telebot
+googletrans
+translate
+gtts
+phonenumbers
+pandas
+numpy
+geopy
+requests
